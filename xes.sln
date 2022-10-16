@@ -23,8 +23,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sim-1", "..\sim-1\sim-1.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sim-2", "..\sim-2\sim-2.vcxproj", "{4DCC98C2-E424-478E-AD14-EE0AAF68423A}"
 EndProject
+<<<<<<< HEAD
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "海港", "..\海港\海港.vcxproj", "{A355FA6A-28C3-42A0-8CD7-C5C2D72621F6}"
 EndProject
+=======
+>>>>>>> 566d4136823a54113744571a10a881883c2ef420
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -113,6 +116,7 @@ Global
 		{4DCC98C2-E424-478E-AD14-EE0AAF68423A}.Release|x64.Build.0 = Release|x64
 		{4DCC98C2-E424-478E-AD14-EE0AAF68423A}.Release|x86.ActiveCfg = Release|Win32
 		{4DCC98C2-E424-478E-AD14-EE0AAF68423A}.Release|x86.Build.0 = Release|Win32
+<<<<<<< HEAD
 		{A355FA6A-28C3-42A0-8CD7-C5C2D72621F6}.Debug|x64.ActiveCfg = Debug|x64
 		{A355FA6A-28C3-42A0-8CD7-C5C2D72621F6}.Debug|x64.Build.0 = Debug|x64
 		{A355FA6A-28C3-42A0-8CD7-C5C2D72621F6}.Debug|x86.ActiveCfg = Debug|Win32
@@ -121,6 +125,8 @@ Global
 		{A355FA6A-28C3-42A0-8CD7-C5C2D72621F6}.Release|x64.Build.0 = Release|x64
 		{A355FA6A-28C3-42A0-8CD7-C5C2D72621F6}.Release|x86.ActiveCfg = Release|Win32
 		{A355FA6A-28C3-42A0-8CD7-C5C2D72621F6}.Release|x86.Build.0 = Release|Win32
+=======
+>>>>>>> 566d4136823a54113744571a10a881883c2ef420
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
